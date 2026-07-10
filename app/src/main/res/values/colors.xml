@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#5B8DEF</color>
+    <color name="primary_dark">#4A7DE0</color>
+    <color name="primary_light">#E8F0FE</color>
+    <color name="accent">#34C759</color>
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="success">#34C759</color>
+    <color name="success_light">#E8F5E9</color>
+    <color name="warning">#FF9500</color>
+    <color name="warning_light">#FFF3E0</color>
+    <color name="danger">#FF3B30</color>
+    <color name="danger_light">#FFEBEE</color>
+    <color name="info">#5AC8FA</color>
+    <color name="info_light">#E3F2FD</color>
+    <color name="priority_urgent">#FF3B30</color>
+    <color name="priority_urgent_light">#FFEBEE</color>
+    <color name="priority_important">#FF9500</color>
+    <color name="priority_important_light">#FFF3E0</color>
+    <color name="priority_normal">#8E8E93</color>
+    <color name="priority_normal_light">#F5F5F5</color>
+    <color name="postpone_1">#FFCC00</color>
+    <color name="postpone_2">#FF9500</color>
+    <color name="postpone_3">#FF3B30</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="border">#D1D5DB</color>
+    <color name="ripple">#1F000000</color>
+    <color name="nav_background">#FFFFFF</color>
+    <color name="nav_item_unselected">#8E8E93</color>
+    <color name="nav_item_selected">#5B8DEF</color>
+</resources>

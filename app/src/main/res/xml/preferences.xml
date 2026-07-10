@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory app:title="Tasks and Archive">
+        <SwitchPreferenceCompat app:key="pref_auto_archive" app:title="@string/pref_auto_archive" app:summary="@string/pref_auto_archive_summary" app:defaultValue="true" />
+        <androidx.preference.SeekBarPreference app:key="pref_auto_archive_days" app:title="@string/pref_auto_archive_days" app:defaultValue="30" app:min="7" app:max="90" app:showSeekBarValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory app:title="Notifications">
+        <SwitchPreferenceCompat app:key="pref_notifications_enabled" app:title="@string/pref_notifications" app:defaultValue="true" />
+        <SwitchPreferenceCompat app:key="pref_vibration" app:title="@string/pref_vibration" app:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory app:title="Maintenance">
+        <Preference app:key="pref_empty_trash" app:title="@string/action_empty_trash" app:summary="Delete all items in trash permanently" />
+    </PreferenceCategory>
+    <PreferenceCategory app:title="About">
+        <Preference app:key="pref_about" app:title="Atmam v1.0.0" app:summary="Tasks + Notes app - Works offline" />
+    </PreferenceCategory>
+</PreferenceScreen>
